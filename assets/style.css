@@ -41,7 +41,7 @@ p {
     margin-bottom: .5%;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 425px) {
     .col-4 {
         display: none;
     }
@@ -74,15 +74,15 @@ p {
     }
 
     h1 {
-        font-size: 4.0rem;
+        font-size: 3.5rem;
     }
 
     h4 {
-        font-size: 2.5rem;
+        font-size: 2.0rem;
     }
 
     p {
-        font-size: 1.5rem;
+        font-size: 1.25rem;
     }
 }
 
