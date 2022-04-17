@@ -59,6 +59,18 @@ p {
     }
 }
 
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+  
+.fa-twitter {
+    background: #ffffff;
+    color: #55ACEE;
+}
 
 .footer {
     position: fixed;
@@ -72,17 +84,4 @@ p {
 
 .footer p {
     margin-right: 10%
-}
-
-.fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 50px;
-    text-align: center;
-    text-decoration: none;
-}
-  
-.fa-twitter {
-    background: #ffffff;
-    color: #55ACEE;
 }
