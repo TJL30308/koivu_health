@@ -59,7 +59,7 @@ p {
     }
 }
 
-@media screen and (max-width: 675px) {
+@media screen and (max-width: 812px) {
     #koivu-logo {
         height: 240px;
     }
